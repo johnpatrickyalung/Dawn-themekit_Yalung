@@ -2,3 +2,9 @@ span.main-title {
     font-family: fantasy;
     font-weight: 400;
 }
+
+span.sub-title {
+    font-size: 19px;
+    font-weight: 800;
+    color: white;
+}
