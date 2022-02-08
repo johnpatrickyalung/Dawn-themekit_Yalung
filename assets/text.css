@@ -27,3 +27,6 @@ padding: 5em 12em 0 12em;
 .nav-link{
  color:#080808; 
 }
+.nav-link:hover{
+ color:#080808; 
+}
