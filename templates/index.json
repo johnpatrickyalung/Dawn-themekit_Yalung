@@ -67,11 +67,14 @@
         "image1-name": "BASKET WITH HANDLES",
         "image1-price": "$160",
         "image2": "shopify:\/\/shop_images\/h1-product-7-600x728.jpg",
-        "image2-name": "Lorem ipsum",
+        "image2-name": "FLOWER VASE",
+        "image2-price": "$170",
         "image3": "shopify:\/\/shop_images\/h1-product-6-600x728.jpg",
         "image3-name": "Lorem ipsum",
+        "image3-price": "Lorem ipsum",
         "image4": "shopify:\/\/shop_images\/h1-product-5-600x728.jpg",
         "image4-name": "Lorem ipsum",
+        "image4-price": "Lorem ipsum",
         "heading-title": "Lorem ipsum"
       }
     },
