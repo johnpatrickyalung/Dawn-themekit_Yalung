@@ -49,6 +49,13 @@
         "show_text_below": false
       }
     },
+    "1644300701c5229deb": {
+      "type": "second-section",
+      "settings": {
+        "heading-title": "BRAND-CENTERED BUYING",
+        "description": "Lorem ipsum dolor sit amet, consectetur a elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient nasceturidiculus mus. Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. Proin tincidunt, lectus eu volutpat mattis, ante metus lacinia tellus, vitae condimentum nulla enim bibendum nibh. Praesent turpis risus, interdum nec venenatis"
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -196,6 +203,7 @@
   },
   "order": [
     "image_banner",
+    "1644300701c5229deb",
     "rich_text",
     "featured_collection",
     "collage",
