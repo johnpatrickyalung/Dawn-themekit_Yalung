@@ -48,6 +48,7 @@ h3.item-name {
 }
 
 .discount{
-display:flex;
+  display:flex;
   posisition:absolute;
+  justify-content:space-between;
 }
