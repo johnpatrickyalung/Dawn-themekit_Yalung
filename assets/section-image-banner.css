@@ -4,7 +4,9 @@
   flex-direction: column;
   
 }
-
+.image_banner{
+background-attachment:fixed;
+}
 .banner__box {
   text-align: center;
 }
