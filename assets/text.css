@@ -14,3 +14,7 @@ h1.sec-title {
     font-family: fantasy;
     margin-bottom: 1em;
 }
+
+.desc-con {
+    padding: 0 12em 0 12em;
+}
