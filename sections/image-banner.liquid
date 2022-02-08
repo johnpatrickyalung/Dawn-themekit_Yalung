@@ -86,7 +86,7 @@
           {%- when 'heading' -%}
             <h2 class="banner__heading {% if block.settings.heading_size == 'medium' %}h1{% else %}h0{% endif %}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.heading | escape }}</span>
-              <h6>{{block.section.settings.title-des | escape }}</h6>
+              <h6>{{block.settings.title-des | escape }}</h6>
             </h2>
           {%- when 'text' -%}
             <div class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
