@@ -26,6 +26,10 @@ padding: 5em 12em 0 12em;
 
 .nav-link{
  color:#080808; 
+  font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 .nav-link:hover{
  color:#080808; 
