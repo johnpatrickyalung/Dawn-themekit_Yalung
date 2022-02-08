@@ -66,9 +66,13 @@
       "type": "third-section",
       "settings": {
         "image1": "shopify:\/\/shop_images\/h1-product-8-600x728.jpg",
+        "image1-name": "BASKET WITH HANDLES",
         "image2": "shopify:\/\/shop_images\/h1-product-7-600x728.jpg",
+        "image2-name": "Lorem ipsum",
         "image3": "shopify:\/\/shop_images\/h1-product-6-600x728.jpg",
+        "image3-name": "Lorem ipsum",
         "image4": "shopify:\/\/shop_images\/h1-product-5-600x728.jpg",
+        "image4-name": "Lorem ipsum",
         "heading-title": "Lorem ipsum"
       }
     },
