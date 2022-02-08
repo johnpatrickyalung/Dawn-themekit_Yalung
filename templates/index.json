@@ -57,9 +57,7 @@
         "menu1": "ALL",
         "menu2": "HOME DECOR",
         "menu3": "LIGHTING",
-        "menu4": "DECORATION",
-        "menu5": "VASES",
-        "menu6": "BASICS"
+        "menu4": "DECORATION"
       }
     },
     "164430512256059d54": {
@@ -67,6 +65,7 @@
       "settings": {
         "image1": "shopify:\/\/shop_images\/h1-product-8-600x728.jpg",
         "image1-name": "BASKET WITH HANDLES",
+        "image1-price": "$160",
         "image2": "shopify:\/\/shop_images\/h1-product-7-600x728.jpg",
         "image2-name": "Lorem ipsum",
         "image3": "shopify:\/\/shop_images\/h1-product-6-600x728.jpg",
