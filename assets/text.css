@@ -15,7 +15,9 @@ h1.sec-title {
     margin-bottom: 1em;
   	font-size:25px;
 }
-
+.desc-con{
+margin-bottom:1em
+}
 
 .nav-link.active{
   color:black;
