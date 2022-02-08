@@ -17,18 +17,18 @@ h1.sec-title {
 }
 
 .con-sec{
-padding: 5em 12em 0 12em;
+    padding: 5em 12em 0 12em;
 } 
 
 .desc-con {
     padding: 0 12em 5em 12em;
 }
 .nav-link.active{
-color:black;
+  color:black;
 }
 .nav-link{
-color:#929292;
-  font-weight: 600;
+    color:#929292;
+    font-weight: 600;
     font-size: 12px;
     letter-spacing: 2px;
     text-transform: uppercase;
