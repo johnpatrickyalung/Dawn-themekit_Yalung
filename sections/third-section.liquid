@@ -1,7 +1,45 @@
+<section id="sec-con">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div class="con-sec">
+          <h1 class="sec-title">{{section.settings.heading-title}}</h1>
+        </div>
+        <div class="desc-con">
+          <p>{{section.settings.description}} </p>
+        </div>
+      </div>
+    </div>
+   
+  </div>
+   <div class="container">
+       <div class="row">
+           <div class="col-12 text-center">
+            <nav class="nav">
+              <a class="nav-link active" aria-current="page" href="#">{{section.settings.menu1}}</a>
+              <a class="nav-link" href="#">{{section.settings.menu2}}</a>
+              <a class="nav-link" href="#">{{section.settings.menu3}}</a>
+              <a class="nav-link" href="#">{{section.settings.menu4}}</a>
+               <a class="nav-link" href="#">{{section.settings.menu5}}</a>
+               <a class="nav-link" href="#">{{section.settings.menu6}}</a>
+            </nav>
+            </div>
+       </div>
+    </div>
+</section>
+
 {% schema %}
   {
     "name": "Section name",
-    "settings": []
+    "settings": [
+                
+                ],
+    "presets": [
+				{
+					"category": "pages",
+					"name": "third-page"
+				}
+				]
   }
 {% endschema %}
 
