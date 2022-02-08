@@ -58,6 +58,7 @@ h3.item-name {
 }
 
 .card-box{
-border: 1px solid #dedede;
+  border: 1px solid #dedede;
+  border-radius: 8px;
 }
   
