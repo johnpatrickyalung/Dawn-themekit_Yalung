@@ -62,6 +62,11 @@
         "menu6": "BASICS"
       }
     },
+    "164430512256059d54": {
+      "type": "third-section",
+      "settings": {
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -211,6 +216,7 @@
   "order": [
     "image_banner",
     "1644300701c5229deb",
+    "164430512256059d54",
     "rich_text",
     "featured_collection",
     "collage",
