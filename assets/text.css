@@ -51,4 +51,6 @@ h3.item-name {
   display:flex;
   posisition:absolute;
   justify-content:space-between;
+  padding-left:1em
+  padding-right:1em;
 }
