@@ -53,7 +53,13 @@
       "type": "second-section",
       "settings": {
         "heading-title": "BRAND-CENTERED BUYING",
-        "description": "Lorem ipsum dolor sit amet, consectetur a elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient nasceturidiculus mus. Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. Proin tincidunt, lectus eu volutpat mattis, ante metus lacinia tellus, vitae condimentum nulla enim bibendum nibh. Praesent turpis risus, interdum nec venenatis"
+        "description": "Lorem ipsum dolor sit amet, consectetur a elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient nasceturidiculus mus. Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. Proin tincidunt, lectus eu volutpat mattis, ante metus lacinia tellus, vitae condimentum nulla enim bibendum nibh. Praesent turpis risus, interdum nec venenatis",
+        "menu1": "ALL",
+        "menu2": "HOME DECOR",
+        "menu3": "LIGHTING",
+        "menu4": "DECORATION",
+        "menu5": "VASES",
+        "menu6": "BASICS"
       }
     },
     "rich_text": {
