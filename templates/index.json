@@ -65,7 +65,11 @@
     "164430512256059d54": {
       "type": "third-section",
       "settings": {
-        "image1": "shopify:\/\/shop_images\/h1-product-8-600x728.jpg"
+        "image1": "shopify:\/\/shop_images\/h1-product-8-600x728.jpg",
+        "image2": "shopify:\/\/shop_images\/h1-product-7-600x728.jpg",
+        "image3": "shopify:\/\/shop_images\/h1-product-6-600x728.jpg",
+        "image4": "shopify:\/\/shop_images\/h1-product-5-600x728.jpg",
+        "heading-title": "Lorem ipsum"
       }
     },
     "rich_text": {
