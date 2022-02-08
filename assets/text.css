@@ -16,6 +16,10 @@ h1.sec-title {
   	font-size:25px;
 }
 
+.con-sec{
+padding: 5em 12em 0 12em;
+} 
+
 .desc-con {
     padding: 0 12em 5em 12em;
 }
