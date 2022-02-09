@@ -91,12 +91,26 @@
       "settings": {
         "secondbanner": "shopify:\/\/shop_images\/h9-parallax-1.jpg",
         "sec-heading-banner": "lorem ipsum",
-        "color_title": "#FFFFFF",
+        "color_title": "#ffffff",
         "sec-desc-banner": "lorem ipsum",
         "font_size": 16,
-        "color_desc": "#FFFFFF",
+        "color_desc": "#ffffff",
         "link": "",
         "linktext": "Click Here"
+      }
+    },
+    "164439373880073a13": {
+      "type": "fifthsection",
+      "settings": {
+        "secondbanner1": "shopify:\/\/shop_images\/rbt-placeholder.jpg",
+        "sec-heading-banner1": "lorem ipsum",
+        "color_title1": "#000000",
+        "sec-desc-banner1": "lorem ipsum",
+        "font_size1": 16,
+        "color_desc1": "#000000",
+        "link1": "",
+        "linktext1": "Click Here",
+        "place": "lorem"
       }
     },
     "rich_text": {
@@ -259,6 +273,7 @@
     "1644300701c5229deb",
     "164430512256059d54",
     "1644393604b43ae011",
+    "164439373880073a13",
     "rich_text",
     "featured_collection",
     "collage",
