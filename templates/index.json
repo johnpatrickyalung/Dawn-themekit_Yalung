@@ -113,6 +113,11 @@
         "place": "lorem"
       }
     },
+    "1644393822106bef5a": {
+      "type": "footersection",
+      "settings": {
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -274,6 +279,7 @@
     "164430512256059d54",
     "1644393604b43ae011",
     "164439373880073a13",
+    "1644393822106bef5a",
     "rich_text",
     "featured_collection",
     "collage",
