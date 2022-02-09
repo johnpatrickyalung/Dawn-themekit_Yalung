@@ -107,14 +107,14 @@
       "type": "fifthsection",
       "settings": {
         "secondbanner1": "shopify:\/\/shop_images\/rbt-placeholder.jpg",
-        "sec-heading-banner1": "lorem ipsum",
+        "sec-heading-banner1": "SUBSCRIBE TO NEWSLETTER",
         "color_title1": "#000000",
-        "sec-desc-banner1": "lorem ipsum",
+        "sec-desc-banner1": "Your brand’s power lies in dominance. It is better to have 50% of one market, instead of 10% of five markets.",
         "font_size1": 16,
         "color_desc1": "#000000",
         "link1": "",
-        "linktext1": "Click Here",
-        "place": "lorem"
+        "linktext1": "SUBSCRIBE",
+        "place": "Email Address"
       }
     },
     "1644393822106bef5a": {
