@@ -75,7 +75,28 @@
         "image4": "shopify:\/\/shop_images\/h1-product-5-600x728.jpg",
         "image4-name": "Lorem ipsum",
         "image4-price": "Lorem ipsum",
+        "image5-name": "Lorem ipsum",
+        "image5-price": "Lorem ipsum",
+        "image6-name": "Lorem ipsum",
+        "image6-price": "Lorem ipsum",
+        "image7-name": "Lorem ipsum",
+        "image7-price": "Lorem ipsum",
+        "image8-name": "Lorem ipsum",
+        "image8-price": "Lorem ipsum",
         "heading-title": "Lorem ipsum"
+      }
+    },
+    "1644393604b43ae011": {
+      "type": "seconbanner",
+      "settings": {
+        "secondbanner": "shopify:\/\/shop_images\/h9-parallax-1.jpg",
+        "sec-heading-banner": "lorem ipsum",
+        "color_title": "#FFFFFF",
+        "sec-desc-banner": "lorem ipsum",
+        "font_size": 16,
+        "color_desc": "#FFFFFF",
+        "link": "",
+        "linktext": "Click Here"
       }
     },
     "rich_text": {
@@ -237,6 +258,7 @@
     "image_banner",
     "1644300701c5229deb",
     "164430512256059d54",
+    "1644393604b43ae011",
     "rich_text",
     "featured_collection",
     "collage",
