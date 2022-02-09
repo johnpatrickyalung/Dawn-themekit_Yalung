@@ -304,6 +304,17 @@ a.buttons {
 }
 
 /* footer */
-.card{
+
+/* footer */
+.cardsa{
 height: 200px;
+text-align: left;
+}
+.footercontainer{
+    margin-top: 5em;
+}
+.footer-title{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: fantasy;
 }
