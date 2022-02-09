@@ -319,6 +319,10 @@ text-align: left;
     font-weight: 400;
     font-family: fantasy;
 }
-.row.co {
+
+
+@media screen and (max-width: 990px)  {
+   .row.co {
     flex-direction: column;
+}
 }
