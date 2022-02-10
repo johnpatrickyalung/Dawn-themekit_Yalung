@@ -357,6 +357,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16444806957b3f261d": {
+      "type": "featured--prod",
+      "settings": {
+        "title": "Featured collection",
+        "collection": ""
+      }
     }
   },
   "order": [
@@ -373,6 +380,7 @@
     "multicolumn",
     "1644456042aab71d74",
     "1644456170682787c9",
-    "1644478069b3ee49fc"
+    "1644478069b3ee49fc",
+    "16444806957b3f261d"
   ]
 }
