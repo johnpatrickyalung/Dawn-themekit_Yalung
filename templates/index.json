@@ -62,6 +62,38 @@
     },
     "16444725936fb74af8": {
       "type": "collection--section",
+      "blocks": {
+        "195c8bf4-af8c-475c-8d1b-0b0ada56bd88": {
+          "type": "collection",
+          "settings": {
+            "collection": "vases"
+          }
+        },
+        "aafd7a47-7d3c-49bc-8d90-69a8a0335e26": {
+          "type": "collection",
+          "settings": {
+            "collection": "vases"
+          }
+        },
+        "3459cf49-9b34-4251-b347-2e46d41871c5": {
+          "type": "collection",
+          "settings": {
+            "collection": "vases"
+          }
+        },
+        "03b021ed-130e-4a3f-acf1-72a1114bc29b": {
+          "type": "collection",
+          "settings": {
+            "collection": "vases"
+          }
+        }
+      },
+      "block_order": [
+        "195c8bf4-af8c-475c-8d1b-0b0ada56bd88",
+        "aafd7a47-7d3c-49bc-8d90-69a8a0335e26",
+        "3459cf49-9b34-4251-b347-2e46d41871c5",
+        "03b021ed-130e-4a3f-acf1-72a1114bc29b"
+      ],
       "settings": {
         "title": "Collection"
       }
