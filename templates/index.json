@@ -360,9 +360,32 @@
     },
     "16444806957b3f261d": {
       "type": "featured--prod",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "collection": ""
+      }
+    },
+    "16444810907bf15c06": {
+      "type": "third-section",
+      "settings": {
+        "image1-name": "Lorem ipsum",
+        "image1-price": "Lorem ipsum",
+        "image2-name": "Lorem ipsum",
+        "image2-price": "Lorem ipsum",
+        "image3-name": "Lorem ipsum",
+        "image3-price": "Lorem ipsum",
+        "image4-name": "Lorem ipsum",
+        "image4-price": "Lorem ipsum",
+        "image5-name": "Lorem ipsum",
+        "image5-price": "Lorem ipsum",
+        "image6-name": "Lorem ipsum",
+        "image6-price": "Lorem ipsum",
+        "image7-name": "Lorem ipsum",
+        "image7-price": "Lorem ipsum",
+        "image8-name": "Lorem ipsum",
+        "image8-price": "Lorem ipsum",
+        "heading-title": "Lorem ipsum"
       }
     }
   },
@@ -381,6 +404,7 @@
     "1644456042aab71d74",
     "1644456170682787c9",
     "1644478069b3ee49fc",
-    "16444806957b3f261d"
+    "16444806957b3f261d",
+    "16444810907bf15c06"
   ]
 }
