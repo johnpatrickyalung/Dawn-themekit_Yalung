@@ -1,0 +1,78 @@
+
+<section id="third-con">
+  <div class="container">
+    <div class="row">
+      {% if section.settings.title != blank %}
+            <h2 >{{ section.settings.title }} </h2>
+          {% endif %}
+    	<div class="container  text-center">
+  <div class="row">
+     {% for block in section.blocks %}
+              {%- assign collection = collections[block.settings.collection] -%}
+    <div class="col gx-5 text-center card-box">
+    <div class="discount">
+        <div><p>NEW</p></div>
+        <div><p>-19%</p></div>
+      </div>
+      <a href="{{ collection.url | default: "#" }}" class="collection-list-item">
+      <div class="image-con">
+         {% if collection.image != blank or collection.products.first != blank %}
+                        {%- assign image_object = collection.image | default: collection.products.first.featured_image -%}
+      	<img width="288"height="349" src="{{block.settings.collection | img_url: "medium"}}" alt="{{ section.settings.heading-title }}">
+         {% elsif collection == empty %}
+                        {% capture current %}{% cycle 1, 2, 3, 4, 5, 6 %}{% endcapture %}
+                        {{ 'collection-' | append: current | placeholder_svg_tag: 'placeholder-svg placeholder-svg--small' }}
+                      {% endif %}
+      </div>
+         </a> 
+      <div class="item-description">
+        <h3 class="item-name">{{ collection.title | default: default_label }}</h3>
+        <p>{{section.settings.image1-price}}</p>
+      </div>
+    </div>
+      
+     {% endfor %}
+
+  
+     
+
+         
+  </div>
+        
+    </div>
+   </div>
+  </div>
+</section>
+{% schema %}
+  {
+    "name": "Collection list",
+     
+    "settings": [
+                    {
+                        "type": "text",
+                        "id": "title",
+                        "label": "Heading",
+                        "default": "Collection"
+                    }
+                ],
+    "blocks": [
+                  {
+                      "type": "collection",
+                      "name": "Collection",
+                      "settings": [
+                        {
+                          "type": "collection",
+                          "label": "Collection",
+                          "id": "collection"
+                        }
+                      ]
+                  }
+              ],
+    "presets": [
+                  {
+                      "name": "Collection_______list",
+                      "category": "Collection"
+                  }
+               ]
+  }
+{% endschema %}
