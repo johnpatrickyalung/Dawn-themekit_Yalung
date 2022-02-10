@@ -101,13 +101,16 @@
     "16444810907bf15c06": {
       "type": "third-section",
       "settings": {
-        "image1": "shopify:\/\/shop_images\/h1-slide2-img1.png",
+        "image1": "shopify:\/\/shop_images\/h1-product-3-600x728.jpg",
         "image1-name": "Lorem ipsum",
         "image1-price": "Lorem ipsum",
+        "image2": "shopify:\/\/shop_images\/h1-product-7-600x728.jpg",
         "image2-name": "Lorem ipsum",
         "image2-price": "Lorem ipsum",
+        "image3": "shopify:\/\/shop_images\/h1-product-8-600x728.jpg",
         "image3-name": "Lorem ipsum",
         "image3-price": "Lorem ipsum",
+        "image4": "shopify:\/\/shop_images\/h1-product-6-600x728.jpg",
         "image4-name": "Lorem ipsum",
         "image4-price": "Lorem ipsum",
         "image5-name": "Lorem ipsum",
