@@ -98,36 +98,6 @@
         "title": "All Collection"
       }
     },
-    "164430512256059d54": {
-      "type": "third-section",
-      "settings": {
-        "image1": "shopify:\/\/shop_images\/h1-product-8-600x728.jpg",
-        "image1-name": "BASKET WITH HANDLES",
-        "image1-price": "$160",
-        "image2": "shopify:\/\/shop_images\/h1-product-7-600x728.jpg",
-        "image2-name": "FLOWER VASE",
-        "image2-price": "$170",
-        "image3": "shopify:\/\/shop_images\/h1-product-6-600x728.jpg",
-        "image3-name": "DECO ACCESSORY",
-        "image3-price": "$15",
-        "image4": "shopify:\/\/shop_images\/h1-product-5-600x728.jpg",
-        "image4-name": "WALL CLOCK",
-        "image4-price": "$110",
-        "image5": "shopify:\/\/shop_images\/h1-product-4-600x728.jpg",
-        "image5-name": "NEWSPAPER STORAGE",
-        "image5-price": "$90",
-        "image6": "shopify:\/\/shop_images\/h1-product-2-600x728.jpg",
-        "image6-name": "POTTERY VASE",
-        "image6-price": "$60",
-        "image7": "shopify:\/\/shop_images\/h1-product-3-600x728.jpg",
-        "image7-name": "ROSE HOLDBACK",
-        "image7-price": "$124",
-        "image8": "shopify:\/\/shop_images\/h1-product-1-600x728.jpg",
-        "image8-name": "TABLE LAMP",
-        "image8-price": "$240",
-        "heading-title": "Lorem ipsum"
-      }
-    },
     "1644393604b43ae011": {
       "type": "seconbanner",
       "settings": {
@@ -375,7 +345,6 @@
     "image_banner",
     "1644300701c5229deb",
     "16444725936fb74af8",
-    "164430512256059d54",
     "1644393604b43ae011",
     "164439373880073a13",
     "1644393822106bef5a",
