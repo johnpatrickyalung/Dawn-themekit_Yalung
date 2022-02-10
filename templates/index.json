@@ -60,6 +60,12 @@
         "menu4": "DECORATION"
       }
     },
+    "16444725936fb74af8": {
+      "type": "collection--section",
+      "settings": {
+        "title": "Collection"
+      }
+    },
     "164430512256059d54": {
       "type": "third-section",
       "settings": {
@@ -336,6 +342,7 @@
   "order": [
     "image_banner",
     "1644300701c5229deb",
+    "16444725936fb74af8",
     "164430512256059d54",
     "1644393604b43ae011",
     "164439373880073a13",
