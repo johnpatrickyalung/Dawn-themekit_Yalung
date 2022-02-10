@@ -1,7 +1,7 @@
 {% if rows == blank %}{% assign rows = 1 %}{% endif %}
 {% if cols == blank %}{% assign cols = 3 %}{% endif %}
 {% assign total_products = cols | times: rows %}
-
+{% include 'my-featured-collection' with handle: 'best-sellers' %}
 <div>
   {% case cols %}
     {% when 5 %}
