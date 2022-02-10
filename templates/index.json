@@ -98,6 +98,29 @@
         "title": "All Collection"
       }
     },
+    "16444810907bf15c06": {
+      "type": "third-section",
+      "settings": {
+        "image1": "shopify:\/\/shop_images\/h1-slide2-img1.png",
+        "image1-name": "Lorem ipsum",
+        "image1-price": "Lorem ipsum",
+        "image2-name": "Lorem ipsum",
+        "image2-price": "Lorem ipsum",
+        "image3-name": "Lorem ipsum",
+        "image3-price": "Lorem ipsum",
+        "image4-name": "Lorem ipsum",
+        "image4-price": "Lorem ipsum",
+        "image5-name": "Lorem ipsum",
+        "image5-price": "Lorem ipsum",
+        "image6-name": "Lorem ipsum",
+        "image6-price": "Lorem ipsum",
+        "image7-name": "Lorem ipsum",
+        "image7-price": "Lorem ipsum",
+        "image8-name": "Lorem ipsum",
+        "image8-price": "Lorem ipsum",
+        "heading-title": "Lorem ipsum"
+      }
+    },
     "1644393604b43ae011": {
       "type": "seconbanner",
       "settings": {
@@ -365,34 +388,13 @@
         "title": "Featured collection",
         "collection": ""
       }
-    },
-    "16444810907bf15c06": {
-      "type": "third-section",
-      "settings": {
-        "image1-name": "Lorem ipsum",
-        "image1-price": "Lorem ipsum",
-        "image2-name": "Lorem ipsum",
-        "image2-price": "Lorem ipsum",
-        "image3-name": "Lorem ipsum",
-        "image3-price": "Lorem ipsum",
-        "image4-name": "Lorem ipsum",
-        "image4-price": "Lorem ipsum",
-        "image5-name": "Lorem ipsum",
-        "image5-price": "Lorem ipsum",
-        "image6-name": "Lorem ipsum",
-        "image6-price": "Lorem ipsum",
-        "image7-name": "Lorem ipsum",
-        "image7-price": "Lorem ipsum",
-        "image8-name": "Lorem ipsum",
-        "image8-price": "Lorem ipsum",
-        "heading-title": "Lorem ipsum"
-      }
     }
   },
   "order": [
     "image_banner",
     "1644300701c5229deb",
     "16444725936fb74af8",
+    "16444810907bf15c06",
     "1644393604b43ae011",
     "164439373880073a13",
     "1644393822106bef5a",
@@ -404,7 +406,6 @@
     "1644456042aab71d74",
     "1644456170682787c9",
     "1644478069b3ee49fc",
-    "16444806957b3f261d",
-    "16444810907bf15c06"
+    "16444806957b3f261d"
   ]
 }
