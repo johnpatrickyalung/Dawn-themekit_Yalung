@@ -132,6 +132,14 @@
         "product_count": 12
       }
     },
+    "1644564718a5c4ae16": {
+      "type": "collection-slider",
+      "settings": {
+        "title": "TRENDING",
+        "collection": "clocks",
+        "product_count": 4
+      }
+    },
     "1644393604b43ae011": {
       "type": "seconbanner",
       "settings": {
@@ -418,6 +426,7 @@
     "16444725936fb74af8",
     "16444810907bf15c06",
     "164455725671c1afcc",
+    "1644564718a5c4ae16",
     "1644393604b43ae011",
     "164439373880073a13",
     "1644393822106bef5a",
