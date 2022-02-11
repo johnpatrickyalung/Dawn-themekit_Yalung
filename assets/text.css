@@ -313,6 +313,7 @@ a.buttons {
 .cardsa{
 height: 200px;
 text-align: left;
+ padding-left:2rem;
 }
 .footercontainer {
     margin-top: 12em;
