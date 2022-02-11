@@ -314,9 +314,9 @@ a.buttons {
 height: 200px;
 text-align: left;
 }
-.footercontainer{
-    margin-top: 5em;
-  height: auto;
+.footercontainer {
+    margin-top: 12em;
+    height: auto;
 }
 .footer-title{
     font-size: 16px;
