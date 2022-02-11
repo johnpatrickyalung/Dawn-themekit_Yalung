@@ -339,3 +339,6 @@ div#shopify-section-template--15667172245745__164455725671c1afcc {
    height: 80vh;
     object-fit: cover;
 }
+.featured-collection-slider.container {
+    margin-bottom: 37rem;
+}
