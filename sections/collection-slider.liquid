@@ -22,7 +22,7 @@
  
     <div class="products-carousel js-flickity" data-flickity='{{ flickity_options }}'>
       {% for product in collection.products limit: product_limit %}
-        <div class="carousel-cell">
+        <div class="carousel-cell card-box">
           <a href="{{ product.url | within: collection }}">
             <img class="image-sizes"  width="288"height="349" class="img-explore" src="{{ product.featured_image | img_url: 'master'}}">
             
