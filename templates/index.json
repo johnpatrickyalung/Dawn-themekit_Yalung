@@ -136,7 +136,7 @@
       "type": "collection-slider",
       "settings": {
         "title": "TRENDING",
-        "collection": "clocks",
+        "collection": "chairs",
         "product_count": 12
       }
     },
