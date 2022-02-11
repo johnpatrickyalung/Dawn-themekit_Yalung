@@ -124,6 +124,14 @@
         "heading-title": "Lorem ipsum"
       }
     },
+    "164455725671c1afcc": {
+      "type": "collection-slider",
+      "settings": {
+        "title": "Featured Collection",
+        "collection": "clocks",
+        "product_count": 12
+      }
+    },
     "1644393604b43ae011": {
       "type": "seconbanner",
       "settings": {
@@ -402,14 +410,6 @@
         "title": "Featured collection",
         "collection": ""
       }
-    },
-    "164455725671c1afcc": {
-      "type": "collection-slider",
-      "settings": {
-        "title": "Featured Collection",
-        "collection": "",
-        "product_count": 4
-      }
     }
   },
   "order": [
@@ -417,6 +417,7 @@
     "1644300701c5229deb",
     "16444725936fb74af8",
     "16444810907bf15c06",
+    "164455725671c1afcc",
     "1644393604b43ae011",
     "164439373880073a13",
     "1644393822106bef5a",
@@ -428,7 +429,6 @@
     "1644456042aab71d74",
     "1644456170682787c9",
     "1644478069b3ee49fc",
-    "16444806957b3f261d",
-    "164455725671c1afcc"
+    "16444806957b3f261d"
   ]
 }
