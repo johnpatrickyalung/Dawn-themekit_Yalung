@@ -328,6 +328,10 @@ text-align: left;
 @media screen and (max-width: 990px)  {
    .row.co {
     flex-direction: column;
+}.cardsa {
+    height: 200px;
+    text-align: left;
+    margin-bottom: 5rem;
 }
 }
 
